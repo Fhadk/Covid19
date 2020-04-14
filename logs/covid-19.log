@@ -1,0 +1,484 @@
+2020-04-12 19:03:53,427 [http-nio-8080-exec-1] (RequestController.java:44) INFO  - Function: getNewCasesCountry
+2020-04-12 19:03:55,314 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Benin:0
+2020-04-12 19:03:55,314 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Papua New Guinea:0
+2020-04-12 19:03:55,314 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Angola:0
+2020-04-12 19:03:55,314 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Cambodia:1
+2020-04-12 19:03:55,315 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Sudan:2
+2020-04-12 19:03:55,315 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Kazakhstan:53
+2020-04-12 19:03:55,315 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Paraguay:4
+2020-04-12 19:03:55,315 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Portugal:515
+2020-04-12 19:03:55,315 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Syria:6
+2020-04-12 19:03:55,315 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Bahamas:4
+2020-04-12 19:03:55,315 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Grenada:0
+2020-04-12 19:03:55,316 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Greece:70
+2020-04-12 19:03:55,316 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Latvia:18
+2020-04-12 19:03:55,316 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Mongolia:0
+2020-04-12 19:03:55,316 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Iran:1837
+2020-04-12 19:03:55,317 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Morocco:97
+2020-04-12 19:03:55,317 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Mali:0
+2020-04-12 19:03:55,317 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Panama:222
+2020-04-12 19:03:55,317 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Guatemala:11
+2020-04-12 19:03:55,317 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Guyana:8
+2020-04-12 19:03:55,317 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Iraq:39
+2020-04-12 19:03:55,317 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Chile:426
+2020-04-12 19:03:55,317 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Laos:2
+2020-04-12 19:03:55,317 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Nepal:0
+2020-04-12 19:03:55,317 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Argentina:0
+2020-04-12 19:03:55,317 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Seychelles:0
+2020-04-12 19:03:55,318 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Tanzania:0
+2020-04-12 19:03:55,318 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Ukraine:308
+2020-04-12 19:03:55,318 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Ghana:30
+2020-04-12 19:03:55,318 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Zambia:0
+2020-04-12 19:03:55,318 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Belize:3
+2020-04-12 19:03:55,318 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Congo (Brazzaville):0
+2020-04-12 19:03:55,318 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Holy See:0
+2020-04-12 19:03:55,318 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Bahrain:115
+2020-04-12 19:03:55,318 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - India:848
+2020-04-12 19:03:55,318 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Maldives:0
+2020-04-12 19:03:55,318 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Guinea-Bissau:2
+2020-04-12 19:03:55,319 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Turkey:5138
+2020-04-12 19:03:55,319 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Belgium:1351
+2020-04-12 19:03:55,319 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Namibia:0
+2020-04-12 19:03:55,319 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Finland:136
+2020-04-12 19:03:55,319 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - North Macedonia:49
+2020-04-12 19:03:55,319 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - South Africa:25
+2020-04-12 19:03:55,319 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Trinidad and Tobago:3
+2020-04-12 19:03:55,319 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Central African Republic:0
+2020-04-12 19:03:55,319 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Georgia:8
+2020-04-12 19:03:55,319 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Jamaica:2
+2020-04-12 19:03:55,319 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Peru:951
+2020-04-12 19:03:55,320 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Saint Kitts and Nevis:0
+2020-04-12 19:03:55,320 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Germany:2737
+2020-04-12 19:03:55,320 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Yemen:0
+2020-04-12 19:03:55,320 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Eritrea:0
+2020-04-12 19:03:55,320 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Fiji:0
+2020-04-12 19:03:55,320 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Guinea:38
+2020-04-12 19:03:55,320 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Chad:0
+2020-04-12 19:03:55,320 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Somalia:0
+2020-04-12 19:03:55,320 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Sao Tome and Principe:0
+2020-04-12 19:03:55,320 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Madagascar:9
+2020-04-12 19:03:55,321 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Thailand:45
+2020-04-12 19:03:55,321 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Equatorial Guinea:0
+2020-04-12 19:03:55,321 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Libya:0
+2020-04-12 19:03:55,321 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Costa Rica:19
+2020-04-12 19:03:55,321 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Sweden:466
+2020-04-12 19:03:55,321 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Taiwan*:3
+2020-04-12 19:03:55,321 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Vietnam:1
+2020-04-12 19:03:55,321 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - West Bank and Gaza:1
+2020-04-12 19:03:55,321 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Malawi:3
+2020-04-12 19:03:55,321 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Andorra:0
+2020-04-12 19:03:55,322 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Liechtenstein:0
+2020-04-12 19:03:55,322 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Poland:401
+2020-04-12 19:03:55,322 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Bulgaria:26
+2020-04-12 19:03:55,322 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Jordan:9
+2020-04-12 19:03:55,322 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Kuwait:161
+2020-04-12 19:03:55,322 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Nigeria:13
+2020-04-12 19:03:55,322 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Tunisia:14
+2020-04-12 19:03:55,322 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Croatia:39
+2020-04-12 19:03:55,322 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Sri Lanka:8
+2020-04-12 19:03:55,322 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Uruguay:21
+2020-04-12 19:03:55,322 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Timor-Leste:0
+2020-04-12 19:03:55,323 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - United Kingdom:5233
+2020-04-12 19:03:55,323 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - United Arab Emirates:376
+2020-04-12 19:03:55,323 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Kenya:2
+2020-04-12 19:03:55,323 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Switzerland:556
+2020-04-12 19:03:55,323 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Spain:4754
+2020-04-12 19:03:55,323 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Brunei:0
+2020-04-12 19:03:55,323 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Djibouti:37
+2020-04-12 19:03:55,324 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Lebanon:10
+2020-04-12 19:03:55,324 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Azerbaijan:67
+2020-04-12 19:03:55,324 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Cuba:56
+2020-04-12 19:03:55,324 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Liberia:11
+2020-04-12 19:03:55,324 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Venezuela:4
+2020-04-12 19:03:55,324 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Burkina Faso:41
+2020-04-12 19:03:55,324 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Mauritania:0
+2020-04-12 19:03:55,324 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Saint Lucia:0
+2020-04-12 19:03:55,324 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Israel:335
+2020-04-12 19:03:55,325 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - San Marino:12
+2020-04-12 19:03:55,325 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Estonia:46
+2020-04-12 19:03:55,325 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Cameroon:0
+2020-04-12 19:03:55,325 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Cyprus:21
+2020-04-12 19:03:55,325 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Malaysia:184
+2020-04-12 19:03:55,325 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Iceland:14
+2020-04-12 19:03:55,325 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Oman:62
+2020-04-12 19:03:55,325 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - MS Zaandam:0
+2020-04-12 19:03:55,325 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Armenia:30
+2020-04-12 19:03:55,325 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Gabon:2
+2020-04-12 19:03:55,325 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Austria:251
+2020-04-12 19:03:55,326 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Mozambique:0
+2020-04-12 19:03:55,326 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - El Salvador:1
+2020-04-12 19:03:55,326 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Monaco:2
+2020-04-12 19:03:55,326 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Luxembourg:47
+2020-04-12 19:03:55,326 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Brazil:1089
+2020-04-12 19:03:55,326 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Algeria:64
+2020-04-12 19:03:55,326 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Cabo Verde:1
+2020-04-12 19:03:55,326 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Slovenia:28
+2020-04-12 19:03:55,326 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Diamond Princess:0
+2020-04-12 19:03:55,326 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - US:29861
+2020-04-12 19:03:55,326 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Antigua and Barbuda:2
+2020-04-12 19:03:55,327 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Colombia:236
+2020-04-12 19:03:55,327 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Ecuador:96
+2020-04-12 19:03:55,327 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Western Sahara:0
+2020-04-12 19:03:55,327 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Hungary:120
+2020-04-12 19:03:55,327 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - South Sudan:0
+2020-04-12 19:03:55,327 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Japan:475
+2020-04-12 19:03:55,327 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Moldova:122
+2020-04-12 19:03:55,327 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Belarus:245
+2020-04-12 19:03:55,327 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Mauritius:1
+2020-04-12 19:03:55,328 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Albania:17
+2020-04-12 19:03:55,328 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - New Zealand:29
+2020-04-12 19:03:55,328 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Eswatini:0
+2020-04-12 19:03:55,328 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Senegal:13
+2020-04-12 19:03:55,328 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Honduras:10
+2020-04-12 19:03:55,328 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Italy:4694
+2020-04-12 19:03:55,328 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Ethiopia:4
+2020-04-12 19:03:55,328 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Haiti:2
+2020-04-12 19:03:55,328 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Korea, South:30
+2020-04-12 19:03:55,328 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Afghanistan:34
+2020-04-12 19:03:55,328 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Burundi:2
+2020-04-12 19:03:55,329 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Singapore:191
+2020-04-12 19:03:55,329 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Czechia:99
+2020-04-12 19:03:55,329 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Egypt:145
+2020-04-12 19:03:55,329 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Sierra Leone:0
+2020-04-12 19:03:55,329 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Bolivia:7
+2020-04-12 19:03:55,329 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Malta:20
+2020-04-12 19:03:55,329 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Russia:1667
+2020-04-12 19:03:55,329 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Saudi Arabia:382
+2020-04-12 19:03:55,330 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Netherlands:1316
+2020-04-12 19:03:55,330 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Pakistan:316
+2020-04-12 19:03:55,330 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Kosovo:33
+2020-04-12 19:03:55,330 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Gambia:5
+2020-04-12 19:03:55,330 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Ireland:839
+2020-04-12 19:03:55,330 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Qatar:216
+2020-04-12 19:03:55,330 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Slovakia:13
+2020-04-12 19:03:55,330 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - France:4785
+2020-04-12 19:03:55,330 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Lithuania:27
+2020-04-12 19:03:55,330 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Serbia:275
+2020-04-12 19:03:55,330 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Bosnia and Herzegovina:45
+2020-04-12 19:03:55,330 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Kyrgyzstan:41
+2020-04-12 19:03:55,331 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Bhutan:0
+2020-04-12 19:03:55,331 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Romania:523
+2020-04-12 19:03:55,331 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Togo:0
+2020-04-12 19:03:55,331 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Niger:53
+2020-04-12 19:03:55,331 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Philippines:233
+2020-04-12 19:03:55,331 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Cote d'Ivoire:89
+2020-04-12 19:03:55,331 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Rwanda:2
+2020-04-12 19:03:55,331 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Congo (Kinshasa):8
+2020-04-12 19:03:55,331 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Uzbekistan:143
+2020-04-12 19:03:55,331 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Burma:11
+2020-04-12 19:03:55,331 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Bangladesh:58
+2020-04-12 19:03:55,331 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Barbados:1
+2020-04-12 19:03:55,331 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Nicaragua:1
+2020-04-12 19:03:55,332 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Norway:95
+2020-04-12 19:03:55,332 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Saint Vincent and the Grenadines:0
+2020-04-12 19:03:55,332 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Botswana:0
+2020-04-12 19:03:55,332 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Denmark:177
+2020-04-12 19:03:55,332 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Dominican Republic:139
+2020-04-12 19:03:55,332 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Mexico:403
+2020-04-12 19:03:55,332 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Uganda:0
+2020-04-12 19:03:55,332 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Zimbabwe:1
+2020-04-12 19:03:55,332 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Suriname:0
+2020-04-12 19:03:55,332 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Montenegro:8
+2020-04-12 19:03:55,332 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Indonesia:330
+2020-04-12 19:03:55,333 [http-nio-8080-exec-1] (Covid19Service.java:73) INFO  - Dominica:0
+2020-04-12 19:08:22,584 [http-nio-8080-exec-1] (RequestController.java:44) INFO  - Function: getNewCasesCountry
+2020-04-12 19:08:22,632 [http-nio-8080-exec-1] (Covid19Service.java:41) ERROR - 
+2020-04-12 19:08:22,632 [http-nio-8080-exec-1] (Covid19Service.java:75) ERROR - 
+2020-04-12 19:09:43,456 [http-nio-8080-exec-1] (RequestController.java:44) INFO  - Function: getNewCasesCountry
+2020-04-12 19:09:43,501 [http-nio-8080-exec-1] (Covid19Service.java:42) ERROR - 
+2020-04-12 19:09:43,501 [http-nio-8080-exec-1] (Covid19Service.java:76) ERROR - 
+2020-04-12 19:10:43,368 [http-nio-8080-exec-1] (RequestController.java:44) INFO  - Function: getNewCasesCountry
+2020-04-12 19:10:43,412 [http-nio-8080-exec-1] (Covid19Service.java:42) ERROR - 
+2020-04-12 19:10:43,412 [http-nio-8080-exec-1] (Covid19Service.java:76) ERROR - 
+2020-04-12 19:16:24,203 [http-nio-8080-exec-1] (RequestController.java:44) INFO  - Function: getNewCasesCountry
+2020-04-12 19:16:24,251 [http-nio-8080-exec-1] (Covid19Service.java:42) ERROR - 
+2020-04-12 19:16:24,251 [http-nio-8080-exec-1] (Covid19Service.java:76) ERROR - 
+2020-04-12 19:17:00,776 [http-nio-8080-exec-3] (RequestController.java:44) INFO  - Function: getNewCasesCountry
+2020-04-12 19:17:00,782 [http-nio-8080-exec-3] (Covid19Service.java:42) ERROR - 
+2020-04-12 19:17:00,782 [http-nio-8080-exec-3] (Covid19Service.java:76) ERROR - 
+2020-04-12 19:21:09,866 [http-nio-8080-exec-1] (RequestController.java:44) INFO  - Function: getNewCasesCountry
+2020-04-12 19:21:09,874 [http-nio-8080-exec-1] (Covid19Service.java:80) ERROR - 
+2020-04-12 19:22:52,432 [http-nio-8080-exec-1] (RequestController.java:44) INFO  - Function: getNewCasesCountry
+2020-04-12 19:22:54,269 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Benin:0
+2020-04-12 19:22:54,270 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Papua New Guinea:0
+2020-04-12 19:22:54,270 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Angola:0
+2020-04-12 19:22:54,270 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Cambodia:1
+2020-04-12 19:22:54,270 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Sudan:2
+2020-04-12 19:22:54,270 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Kazakhstan:53
+2020-04-12 19:22:54,270 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Paraguay:4
+2020-04-12 19:22:54,270 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Portugal:515
+2020-04-12 19:22:54,271 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Syria:6
+2020-04-12 19:22:54,271 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Bahamas:4
+2020-04-12 19:22:54,271 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Grenada:0
+2020-04-12 19:22:54,271 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Greece:70
+2020-04-12 19:22:54,271 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Latvia:18
+2020-04-12 19:22:54,271 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Mongolia:0
+2020-04-12 19:22:54,271 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Iran:1837
+2020-04-12 19:22:54,272 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Morocco:97
+2020-04-12 19:22:54,272 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Mali:0
+2020-04-12 19:22:54,272 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Panama:222
+2020-04-12 19:22:54,273 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Guatemala:11
+2020-04-12 19:22:54,273 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Guyana:8
+2020-04-12 19:22:54,273 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Iraq:39
+2020-04-12 19:22:54,273 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Chile:426
+2020-04-12 19:22:54,273 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Laos:2
+2020-04-12 19:22:54,273 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Nepal:0
+2020-04-12 19:22:54,273 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Argentina:0
+2020-04-12 19:22:54,273 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Seychelles:0
+2020-04-12 19:22:54,274 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Tanzania:0
+2020-04-12 19:22:54,274 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Ukraine:308
+2020-04-12 19:22:54,274 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Ghana:30
+2020-04-12 19:22:54,274 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Zambia:0
+2020-04-12 19:22:54,274 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Belize:3
+2020-04-12 19:22:54,274 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Congo (Brazzaville):0
+2020-04-12 19:22:54,274 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Holy See:0
+2020-04-12 19:22:54,274 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Bahrain:115
+2020-04-12 19:22:54,274 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - India:848
+2020-04-12 19:22:54,274 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Maldives:0
+2020-04-12 19:22:54,275 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Guinea-Bissau:2
+2020-04-12 19:22:54,275 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Turkey:5138
+2020-04-12 19:22:54,275 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Belgium:1351
+2020-04-12 19:22:54,275 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Namibia:0
+2020-04-12 19:22:54,275 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Finland:136
+2020-04-12 19:22:54,275 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - North Macedonia:49
+2020-04-12 19:22:54,275 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - South Africa:25
+2020-04-12 19:22:54,275 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Trinidad and Tobago:3
+2020-04-12 19:22:54,275 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Central African Republic:0
+2020-04-12 19:22:54,275 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Georgia:8
+2020-04-12 19:22:54,276 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Jamaica:2
+2020-04-12 19:22:54,276 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Peru:951
+2020-04-12 19:22:54,276 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Saint Kitts and Nevis:0
+2020-04-12 19:22:54,276 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Germany:2737
+2020-04-12 19:22:54,276 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Yemen:0
+2020-04-12 19:22:54,276 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Eritrea:0
+2020-04-12 19:22:54,276 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Fiji:0
+2020-04-12 19:22:54,276 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Guinea:38
+2020-04-12 19:22:54,276 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Chad:0
+2020-04-12 19:22:54,277 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Somalia:0
+2020-04-12 19:22:54,277 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Sao Tome and Principe:0
+2020-04-12 19:22:54,277 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Madagascar:9
+2020-04-12 19:22:54,277 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Thailand:45
+2020-04-12 19:22:54,277 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Equatorial Guinea:0
+2020-04-12 19:22:54,277 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Libya:0
+2020-04-12 19:22:54,277 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Costa Rica:19
+2020-04-12 19:22:54,277 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Sweden:466
+2020-04-12 19:22:54,277 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Taiwan*:3
+2020-04-12 19:22:54,277 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Vietnam:1
+2020-04-12 19:22:54,278 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - West Bank and Gaza:1
+2020-04-12 19:22:54,278 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Malawi:3
+2020-04-12 19:22:54,278 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Andorra:0
+2020-04-12 19:22:54,278 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Liechtenstein:0
+2020-04-12 19:22:54,278 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Poland:401
+2020-04-12 19:22:54,278 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Bulgaria:26
+2020-04-12 19:22:54,278 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Jordan:9
+2020-04-12 19:22:54,278 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Kuwait:161
+2020-04-12 19:22:54,278 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Nigeria:13
+2020-04-12 19:22:54,279 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Tunisia:14
+2020-04-12 19:22:54,279 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Croatia:39
+2020-04-12 19:22:54,279 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Sri Lanka:8
+2020-04-12 19:22:54,279 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Uruguay:21
+2020-04-12 19:22:54,279 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Timor-Leste:0
+2020-04-12 19:22:54,279 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - United Kingdom:5233
+2020-04-12 19:22:54,279 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - United Arab Emirates:376
+2020-04-12 19:22:54,279 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Kenya:2
+2020-04-12 19:22:54,279 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Switzerland:556
+2020-04-12 19:22:54,279 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Spain:4754
+2020-04-12 19:22:54,279 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Brunei:0
+2020-04-12 19:22:54,280 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Djibouti:37
+2020-04-12 19:22:54,280 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Lebanon:10
+2020-04-12 19:22:54,280 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Azerbaijan:67
+2020-04-12 19:22:54,280 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Cuba:56
+2020-04-12 19:22:54,280 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Liberia:11
+2020-04-12 19:22:54,280 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Venezuela:4
+2020-04-12 19:22:54,280 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Burkina Faso:41
+2020-04-12 19:22:54,280 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Mauritania:0
+2020-04-12 19:22:54,280 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Saint Lucia:0
+2020-04-12 19:22:54,280 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Israel:335
+2020-04-12 19:22:54,280 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - San Marino:12
+2020-04-12 19:22:54,281 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Estonia:46
+2020-04-12 19:22:54,281 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Cameroon:0
+2020-04-12 19:22:54,281 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Cyprus:21
+2020-04-12 19:22:54,281 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Malaysia:184
+2020-04-12 19:22:54,281 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Iceland:14
+2020-04-12 19:22:54,281 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Oman:62
+2020-04-12 19:22:54,281 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - MS Zaandam:0
+2020-04-12 19:22:54,281 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Armenia:30
+2020-04-12 19:22:54,281 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Gabon:2
+2020-04-12 19:22:54,281 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Austria:251
+2020-04-12 19:22:54,281 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Mozambique:0
+2020-04-12 19:22:54,282 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - El Salvador:1
+2020-04-12 19:22:54,282 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Monaco:2
+2020-04-12 19:22:54,282 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Luxembourg:47
+2020-04-12 19:22:54,282 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Brazil:1089
+2020-04-12 19:22:54,282 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Algeria:64
+2020-04-12 19:22:54,282 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Cabo Verde:1
+2020-04-12 19:22:54,282 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Slovenia:28
+2020-04-12 19:22:54,282 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Diamond Princess:0
+2020-04-12 19:22:54,282 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - US:29861
+2020-04-12 19:22:54,282 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Antigua and Barbuda:2
+2020-04-12 19:22:54,282 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Colombia:236
+2020-04-12 19:22:54,283 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Ecuador:96
+2020-04-12 19:22:54,283 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Western Sahara:0
+2020-04-12 19:22:54,283 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Hungary:120
+2020-04-12 19:22:54,283 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - South Sudan:0
+2020-04-12 19:22:54,283 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Japan:475
+2020-04-12 19:22:54,283 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Moldova:122
+2020-04-12 19:22:54,283 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Belarus:245
+2020-04-12 19:22:54,283 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Mauritius:1
+2020-04-12 19:22:54,283 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Albania:17
+2020-04-12 19:22:54,283 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - New Zealand:29
+2020-04-12 19:22:54,283 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Eswatini:0
+2020-04-12 19:22:54,284 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Senegal:13
+2020-04-12 19:22:54,284 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Honduras:10
+2020-04-12 19:22:54,284 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Italy:4694
+2020-04-12 19:22:54,284 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Ethiopia:4
+2020-04-12 19:22:54,284 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Haiti:2
+2020-04-12 19:22:54,284 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Korea, South:30
+2020-04-12 19:22:54,284 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Afghanistan:34
+2020-04-12 19:22:54,284 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Burundi:2
+2020-04-12 19:22:54,284 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Singapore:191
+2020-04-12 19:22:54,284 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Czechia:99
+2020-04-12 19:22:54,284 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Egypt:145
+2020-04-12 19:22:54,285 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Sierra Leone:0
+2020-04-12 19:22:54,285 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Bolivia:7
+2020-04-12 19:22:54,285 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Malta:20
+2020-04-12 19:22:54,285 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Russia:1667
+2020-04-12 19:22:54,285 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Saudi Arabia:382
+2020-04-12 19:22:54,285 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Netherlands:1316
+2020-04-12 19:22:54,285 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Pakistan:316
+2020-04-12 19:22:54,285 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Kosovo:33
+2020-04-12 19:22:54,285 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Gambia:5
+2020-04-12 19:22:54,285 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Ireland:839
+2020-04-12 19:22:54,285 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Qatar:216
+2020-04-12 19:22:54,286 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Slovakia:13
+2020-04-12 19:22:54,286 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - France:4785
+2020-04-12 19:22:54,286 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Lithuania:27
+2020-04-12 19:22:54,286 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Serbia:275
+2020-04-12 19:22:54,286 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Bosnia and Herzegovina:45
+2020-04-12 19:22:54,286 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Kyrgyzstan:41
+2020-04-12 19:22:54,286 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Bhutan:0
+2020-04-12 19:22:54,286 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Romania:523
+2020-04-12 19:22:54,286 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Togo:0
+2020-04-12 19:22:54,286 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Niger:53
+2020-04-12 19:22:54,286 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Philippines:233
+2020-04-12 19:22:54,286 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Cote d'Ivoire:89
+2020-04-12 19:22:54,287 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Rwanda:2
+2020-04-12 19:22:54,287 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Congo (Kinshasa):8
+2020-04-12 19:22:54,287 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Uzbekistan:143
+2020-04-12 19:22:54,287 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Burma:11
+2020-04-12 19:22:54,287 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Bangladesh:58
+2020-04-12 19:22:54,287 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Barbados:1
+2020-04-12 19:22:54,287 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Nicaragua:1
+2020-04-12 19:22:54,287 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Norway:95
+2020-04-12 19:22:54,287 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Saint Vincent and the Grenadines:0
+2020-04-12 19:22:54,287 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Botswana:0
+2020-04-12 19:22:54,287 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Denmark:177
+2020-04-12 19:22:54,287 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Dominican Republic:139
+2020-04-12 19:22:54,288 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Mexico:403
+2020-04-12 19:22:54,288 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Uganda:0
+2020-04-12 19:22:54,288 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Zimbabwe:1
+2020-04-12 19:22:54,288 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Suriname:0
+2020-04-12 19:22:54,288 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Montenegro:8
+2020-04-12 19:22:54,288 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Indonesia:330
+2020-04-12 19:22:54,288 [http-nio-8080-exec-1] (Covid19Service.java:69) INFO  - Dominica:0
+2020-04-12 19:29:35,257 [http-nio-8080-exec-1] (RequestController.java:52) INFO  - Function: getNewCases
+2020-04-12 19:40:05,683 [http-nio-8080-exec-1] (RequestController.java:49) INFO  - Function: getNewCasesCountrySort
+2020-04-12 19:40:26,549 [http-nio-8080-exec-2] (RequestController.java:43) INFO  - Function: getNewCasesCountry
+2020-04-12 19:42:50,121 [http-nio-8080-exec-1] (RequestController.java:43) INFO  - Function: getNewCasesCountry
+2020-04-12 19:42:54,778 [http-nio-8080-exec-3] (RequestController.java:43) INFO  - Function: getNewCasesCountry
+2020-04-12 19:43:00,676 [http-nio-8080-exec-4] (RequestController.java:49) INFO  - Function: getNewCasesCountrySort
+2020-04-12 19:43:54,856 [http-nio-8080-exec-2] (RequestController.java:49) INFO  - Function: getNewCasesCountrySort
+2020-04-12 19:50:40,782 [http-nio-8080-exec-1] (RequestController.java:49) INFO  - Function: getNewCasesCountrySort
+2020-04-12 19:51:59,988 [http-nio-8080-exec-2] (RequestController.java:49) INFO  - Function: getNewCasesCountrySort
+2020-04-12 19:53:07,622 [http-nio-8080-exec-1] (RequestController.java:49) INFO  - Function: getNewCasesCountrySort
+2020-04-12 19:57:51,023 [http-nio-8080-exec-1] (RequestController.java:49) INFO  - Function: getNewCasesCountrySort
+2020-04-12 19:58:09,099 [http-nio-8080-exec-3] (RequestController.java:43) INFO  - Function: getNewCasesCountry
+2020-04-12 19:58:26,355 [http-nio-8080-exec-1] (RequestController.java:49) INFO  - Function: getNewCasesCountrySort
+2020-04-12 20:00:54,657 [http-nio-8080-exec-3] (RequestController.java:49) INFO  - Function: getNewCasesCountrySort
+2020-04-12 20:00:59,136 [http-nio-8080-exec-4] (RequestController.java:49) INFO  - Function: getNewCasesCountrySort
+2020-04-12 20:01:21,081 [http-nio-8080-exec-1] (RequestController.java:49) INFO  - Function: getNewCasesCountrySort
+2020-04-12 20:01:39,532 [http-nio-8080-exec-1] (RequestController.java:49) INFO  - Function: getNewCasesCountrySort
+2020-04-12 20:02:50,483 [http-nio-8080-exec-1] (RequestController.java:49) INFO  - Function: getNewCasesCountrySort
+2020-04-12 20:03:01,090 [http-nio-8080-exec-3] (RequestController.java:43) INFO  - Function: getNewCasesCountry
+2020-04-12 20:03:08,019 [http-nio-8080-exec-4] (RequestController.java:49) INFO  - Function: getNewCasesCountrySort
+2020-04-12 20:03:41,699 [http-nio-8080-exec-1] (RequestController.java:43) INFO  - Function: getNewCasesCountry
+2020-04-12 20:03:46,235 [http-nio-8080-exec-2] (RequestController.java:49) INFO  - Function: getNewCasesCountrySort
+2020-04-12 20:03:50,589 [http-nio-8080-exec-3] (RequestController.java:49) INFO  - Function: getNewCasesCountrySort
+2020-04-12 20:14:57,496 [http-nio-8080-exec-1] (RequestController.java:55) INFO  - Function: getNewCasesCountryCount
+2020-04-12 20:15:04,095 [http-nio-8080-exec-2] (RequestController.java:49) INFO  - Function: getNewCasesCountrySort
+2020-04-12 20:15:14,116 [http-nio-8080-exec-3] (RequestController.java:43) INFO  - Function: getNewCasesCountry
+2020-04-12 20:15:18,215 [http-nio-8080-exec-4] (RequestController.java:49) INFO  - Function: getNewCasesCountrySort
+2020-04-12 20:15:38,186 [http-nio-8080-exec-5] (RequestController.java:55) INFO  - Function: getNewCasesCountryCount
+2020-04-12 20:15:40,215 [http-nio-8080-exec-6] (RequestController.java:55) INFO  - Function: getNewCasesCountryCount
+2020-04-12 20:15:40,766 [http-nio-8080-exec-7] (RequestController.java:55) INFO  - Function: getNewCasesCountryCount
+2020-04-12 20:16:41,056 [http-nio-8080-exec-8] (RequestController.java:55) INFO  - Function: getNewCasesCountryCount
+2020-04-12 20:20:26,937 [http-nio-8080-exec-1] (RequestController.java:49) INFO  - Function: getNewCasesCountrySort
+2020-04-12 20:20:35,943 [http-nio-8080-exec-2] (RequestController.java:55) INFO  - Function: getNewCasesCountryCount
+2020-04-12 20:20:36,869 [http-nio-8080-exec-3] (RequestController.java:55) INFO  - Function: getNewCasesCountryCount
+2020-04-12 20:21:17,131 [http-nio-8080-exec-7] (RequestController.java:55) INFO  - Function: getNewCasesCountryCount
+2020-04-12 20:21:18,253 [http-nio-8080-exec-8] (RequestController.java:55) INFO  - Function: getNewCasesCountryCount
+2020-04-12 20:24:00,704 [http-nio-8080-exec-1] (RequestController.java:57) INFO  - Function: getNewCasesCountryCount
+2020-04-12 20:24:03,083 [http-nio-8080-exec-2] (RequestController.java:57) INFO  - Function: getNewCasesCountryCount
+2020-04-12 20:24:03,635 [http-nio-8080-exec-3] (RequestController.java:57) INFO  - Function: getNewCasesCountryCount
+2020-04-12 20:25:04,241 [http-nio-8080-exec-5] (RequestController.java:57) INFO  - Function: getNewCasesCountryCount
+2020-04-12 20:29:20,714 [http-nio-8080-exec-1] (RequestController.java:57) INFO  - Function: getNewCasesCountryCount
+2020-04-12 20:31:03,969 [http-nio-8080-exec-1] (RequestController.java:57) INFO  - Function: getNewCasesCountryCount
+2020-04-12 20:36:17,867 [http-nio-8080-exec-1] (RequestController.java:57) INFO  - Function: getNewCasesCountryCount
+2020-04-12 20:36:43,207 [http-nio-8080-exec-3] (RequestController.java:57) INFO  - Function: getNewCasesCountryCount
+2020-04-12 20:37:19,157 [http-nio-8080-exec-1] (RequestController.java:57) INFO  - Function: getNewCasesCountryCount
+2020-04-12 20:41:07,990 [http-nio-8080-exec-1] (RequestController.java:57) INFO  - Function: getNewCasesCountryCount
+2020-04-12 20:44:06,378 [http-nio-8080-exec-1] (RequestController.java:57) INFO  - Function: getNewCasesCountryCount
+2020-04-12 20:44:31,736 [http-nio-8080-exec-1] (RequestController.java:57) INFO  - Function: getNewCasesCountryCount
+2020-04-12 20:44:38,906 [http-nio-8080-exec-2] (RequestController.java:45) INFO  - Function: getNewCasesCountry
+2020-04-12 20:44:46,840 [http-nio-8080-exec-4] (RequestController.java:51) INFO  - Function: getNewCasesCountrySort
+2020-04-12 20:44:52,951 [http-nio-8080-exec-5] (RequestController.java:45) INFO  - Function: getNewCasesCountry
+2020-04-12 20:44:57,090 [http-nio-8080-exec-6] (RequestController.java:63) INFO  - Function: getNewCases
+2020-04-12 20:45:05,604 [http-nio-8080-exec-7] (RequestController.java:57) INFO  - Function: getNewCasesCountryCount
+2020-04-12 20:45:12,165 [http-nio-8080-exec-8] (RequestController.java:45) INFO  - Function: getNewCasesCountry
+2020-04-13 12:15:53,331 [http-nio-8080-exec-1] (RequestController.java:63) INFO  - Function: getNewCases
+2020-04-13 12:16:13,841 [http-nio-8080-exec-3] (RequestController.java:45) INFO  - Function: getNewCasesCountry
+2020-04-13 12:17:41,549 [http-nio-8080-exec-5] (RequestController.java:63) INFO  - Function: getNewCases
+2020-04-13 12:17:47,179 [http-nio-8080-exec-6] (RequestController.java:51) INFO  - Function: getNewCasesCountrySort
+2020-04-13 12:18:03,244 [http-nio-8080-exec-8] (RequestController.java:57) INFO  - Function: getNewCasesCountryCount
+2020-04-13 12:23:10,777 [http-nio-8080-exec-1] (RequestController.java:63) INFO  - Function: getNewCases
+2020-04-13 12:23:20,470 [http-nio-8080-exec-2] (RequestController.java:45) INFO  - Function: getNewCasesCountry
+2020-04-13 14:06:11,361 [http-nio-8080-exec-1] (RequestController.java:63) INFO  - Function: getNewCasesCountryDate
+2020-04-13 14:06:13,350 [http-nio-8080-exec-1] (Covid19Service.java:148) ERROR - character to be escaped is missing
+2020-04-13 14:07:19,976 [http-nio-8080-exec-1] (RequestController.java:63) INFO  - Function: getNewCasesCountryDate
+2020-04-13 14:08:00,404 [http-nio-8080-exec-2] (RequestController.java:63) INFO  - Function: getNewCasesCountryDate
+2020-04-13 14:08:14,456 [http-nio-8080-exec-3] (RequestController.java:63) INFO  - Function: getNewCasesCountryDate
+2020-04-13 14:09:31,776 [http-nio-8080-exec-5] (RequestController.java:63) INFO  - Function: getNewCasesCountryDate
+2020-04-13 14:09:32,764 [http-nio-8080-exec-5] (Covid19Service.java:148) ERROR - -1
+2020-04-13 14:09:44,033 [http-nio-8080-exec-6] (RequestController.java:63) INFO  - Function: getNewCasesCountryDate
+2020-04-13 14:09:55,292 [http-nio-8080-exec-7] (RequestController.java:63) INFO  - Function: getNewCasesCountryDate
+2020-04-13 14:10:11,696 [http-nio-8080-exec-8] (RequestController.java:63) INFO  - Function: getNewCasesCountryDate
+2020-04-13 14:10:24,304 [http-nio-8080-exec-9] (RequestController.java:63) INFO  - Function: getNewCasesCountryDate
+2020-04-13 14:14:19,150 [http-nio-8080-exec-4] (RequestController.java:69) INFO  - Function: getNewCases
+2020-04-13 14:14:37,804 [http-nio-8080-exec-5] (RequestController.java:51) INFO  - Function: getNewCasesCountrySort
+2020-04-13 14:14:55,373 [http-nio-8080-exec-9] (RequestController.java:45) INFO  - Function: getNewCasesCountry
+2020-04-13 14:15:21,480 [http-nio-8080-exec-8] (RequestController.java:57) INFO  - Function: getNewCasesCountryCount
+2020-04-13 14:15:40,264 [http-nio-8080-exec-3] (RequestController.java:63) INFO  - Function: getNewCasesCountryDate
+2020-04-14 15:39:33,132 [http-nio-8080-exec-1] (RequestController.java:60) INFO  - Function: getNewCasesCountryDate
+2020-04-14 15:39:46,810 [http-nio-8080-exec-2] (RequestController.java:54) INFO  - Function: getNewCasesCountryCount
+2020-04-14 16:28:50,379 [http-nio-auto-1-exec-1] (RequestController.java:66) INFO  - Function: getNewCases
+2020-04-14 16:28:51,674 [http-nio-auto-1-exec-1] (Covid19Service.java:43) ERROR - raw.githubusercontent.com
+2020-04-14 16:28:51,676 [http-nio-auto-1-exec-1] (Covid19Service.java:95) ERROR - 
+2020-04-14 16:33:06,412 [http-nio-auto-1-exec-1] (RequestController.java:66) INFO  - Function: getNewCases
+2020-04-14 16:33:59,602 [http-nio-auto-1-exec-1] (RequestController.java:66) INFO  - Function: getNewCases
+2020-04-14 16:35:40,757 [http-nio-auto-1-exec-1] (RequestController.java:42) INFO  - Function: getNewCasesCountry
+2020-04-14 16:36:01,790 [http-nio-auto-1-exec-1] (RequestController.java:42) INFO  - Function: getNewCasesCountry
+2020-04-14 16:37:44,224 [http-nio-auto-1-exec-1] (RequestController.java:42) INFO  - Function: getNewCasesCountry
+2020-04-14 16:38:20,362 [http-nio-auto-1-exec-1] (RequestController.java:42) INFO  - Function: getNewCasesCountry
+2020-04-14 16:39:17,735 [http-nio-auto-1-exec-1] (RequestController.java:42) INFO  - Function: getNewCasesCountry
+2020-04-14 16:39:51,420 [http-nio-auto-1-exec-1] (RequestController.java:42) INFO  - Function: getNewCasesCountry
+2020-04-14 16:40:55,263 [http-nio-auto-1-exec-1] (RequestController.java:42) INFO  - Function: getNewCasesCountry
+2020-04-14 16:44:15,579 [http-nio-auto-1-exec-1] (RequestController.java:42) INFO  - Function: getNewCasesCountry
+2020-04-14 16:44:49,298 [http-nio-auto-1-exec-1] (RequestController.java:42) INFO  - Function: getNewCasesCountry
+2020-04-14 16:45:13,235 [http-nio-auto-1-exec-1] (RequestController.java:42) INFO  - Function: getNewCasesCountry
+2020-04-14 16:58:44,314 [http-nio-auto-1-exec-1] (RequestController.java:66) INFO  - Function: getNewCases
+2020-04-14 16:58:46,115 [http-nio-auto-1-exec-2] (RequestController.java:42) INFO  - Function: getNewCasesCountry
+2020-04-14 19:58:36,801 [http-nio-auto-1-exec-1] (RequestController.java:66) INFO  - Function: getNewCases
+2020-04-14 19:58:39,584 [http-nio-auto-1-exec-2] (RequestController.java:60) INFO  - Function: getNewCasesCountryDate
+2020-04-14 19:58:39,870 [http-nio-auto-1-exec-3] (RequestController.java:48) INFO  - Function: getNewCasesCountrySort
+2020-04-14 19:58:40,289 [http-nio-auto-1-exec-4] (RequestController.java:54) INFO  - Function: getNewCasesCountryCount
+2020-04-14 19:58:40,514 [http-nio-auto-1-exec-5] (RequestController.java:42) INFO  - Function: getNewCasesCountry
