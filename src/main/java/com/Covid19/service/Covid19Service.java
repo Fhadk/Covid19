@@ -12,9 +12,11 @@ import java.util.Map;
 import java.util.stream.Collectors;
 
 import org.apache.log4j.Logger;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 
+import com.Covid19.model.ActiveUserData;
 import com.google.gson.Gson;
 
 import au.com.bytecode.opencsv.CSVReader;
@@ -31,6 +33,9 @@ public class Covid19Service {
 
 	@Value("${urlCSV}")
 	private String url;
+	
+	 @Autowired
+	 ActiveUserData activeUserData;
 
 	public void csvParser() throws IOException {
 		try {
@@ -47,10 +52,10 @@ public class Covid19Service {
 	}
 
 	/**
-	 * @return JSON Object
+	 * @return List<String>
 	 */
-	public String getActiveUser() {
-		return "";
+	public List<String> getActiveUser() {
+		return activeUserData.getUsers();
 	}
 
 	/**
@@ -58,9 +63,6 @@ public class Covid19Service {
 	 */
 	public String getNewCasesCountrySort() {
 		try {
-
-			csvParser(); // need to remove it
-			
 			if(newCasesCountry.isEmpty())
 				getNewCasesCountry();
 
@@ -80,9 +82,6 @@ public class Covid19Service {
 	 */
 	public String getNewCases() {
 		try {
-
-			csvParser(); // need to remove it
-
 			int value = 0;
 			String[] row;
 
@@ -104,8 +103,6 @@ public class Covid19Service {
 	public String getNewCasesCountry(int count) {
 		try {
 
-			csvParser(); // need to remove it
-			
 			if(newCasesCountry.isEmpty())
 				getNewCasesCountry();
 
@@ -127,9 +124,6 @@ public class Covid19Service {
 	 */
 	public String getNewCasesCountryDate(String date) {
 		try {
-
-			csvParser(); // need to remove it
-
 			int value = 0, index = 0;
 			String[] row;
 			
@@ -154,9 +148,6 @@ public class Covid19Service {
 	 */
 	public String getNewCasesCountry() {
 		try {
-
-			csvParser(); // need to remove it
-
 			int value = 0;
 			String[] row;
 

@@ -482,3 +482,19 @@
 2020-04-14 19:58:39,870 [http-nio-auto-1-exec-3] (RequestController.java:48) INFO  - Function: getNewCasesCountrySort
 2020-04-14 19:58:40,289 [http-nio-auto-1-exec-4] (RequestController.java:54) INFO  - Function: getNewCasesCountryCount
 2020-04-14 19:58:40,514 [http-nio-auto-1-exec-5] (RequestController.java:42) INFO  - Function: getNewCasesCountry
+2020-04-14 21:27:37,963 [http-nio-8080-exec-5] (RequestController.java:94) INFO  - Function: getNewCases
+2020-04-14 21:27:54,451 [http-nio-8080-exec-7] (RequestController.java:94) INFO  - Function: getNewCases
+2020-04-14 21:28:40,601 [http-nio-8080-exec-8] (RequestController.java:94) INFO  - Function: getNewCases
+2020-04-14 21:35:01,435 [http-nio-8080-exec-3] (RequestController.java:95) INFO  - Function: getNewCases
+2020-04-14 21:53:00,834 [http-nio-auto-1-exec-5] (RequestController.java:71) INFO  - Function: getNewCasesCountry
+2020-04-14 21:53:00,837 [http-nio-auto-1-exec-5] (Covid19Service.java:155) ERROR - 
+2020-04-14 21:54:32,346 [http-nio-auto-1-exec-5] (RequestController.java:71) INFO  - Function: getNewCasesCountry
+2020-04-14 21:54:32,349 [http-nio-auto-1-exec-5] (Covid19Service.java:155) ERROR - 
+2020-04-14 21:54:51,320 [http-nio-auto-1-exec-5] (RequestController.java:71) INFO  - Function: getNewCasesCountry
+2020-04-14 21:54:51,322 [http-nio-auto-1-exec-5] (Covid19Service.java:155) ERROR - 
+2020-04-14 21:55:20,043 [http-nio-auto-1-exec-5] (RequestController.java:71) INFO  - Function: getNewCasesCountry
+2020-04-14 21:55:20,045 [http-nio-auto-1-exec-5] (Covid19Service.java:155) ERROR - 
+2020-04-14 22:00:08,611 [http-nio-auto-1-exec-5] (RequestController.java:71) INFO  - Function: getNewCasesCountry
+2020-04-17 16:24:48,522 [http-nio-8080-exec-6] (RequestController.java:71) INFO  - Function: getNewCasesCountry
+2020-04-17 16:25:56,772 [http-nio-8080-exec-7] (RequestController.java:65) INFO  - Function: getActiveUser
+2020-04-17 16:35:04,861 [http-nio-8080-exec-4] (RequestController.java:64) INFO  - Function: getActiveUser
