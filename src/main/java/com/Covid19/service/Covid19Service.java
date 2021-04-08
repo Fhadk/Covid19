@@ -21,6 +21,12 @@ import com.google.gson.Gson;
 
 import au.com.bytecode.opencsv.CSVReader;
 
+/**
+ * 
+ * @author Fhadk
+ *
+ */
+
 @Service
 public class Covid19Service {
 	private Logger logger = Logger.getLogger(Covid19Service.class);
